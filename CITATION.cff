@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pokharel"
+  given-names: "Sushant"
+title: "Graph Congestion Lab: Game-Theoretic Routing Simulation Engine"
+version: 1.0.0
+date-released: 2026-04-30
+url: "https://github.com/Gr8Sushant/Graph-based-congestion-game-engine"
+repository-code: "https://github.com/Gr8Sushant/Graph-based-congestion-game-engine"
+abstract: "A Python simulation engine for computing Wardrop equilibria, social optimums, and Price of Anarchy on real-world OSM road networks."

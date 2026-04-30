@@ -1,0 +1,12 @@
+networkx==3.4.2
+pandas==2.2.3
+numpy==2.2.3
+osmnx==2.0.1
+plotly==6.0.0
+streamlit==1.43.1
+geopandas==1.0.1
+python-dotenv==1.0.1
+neo4j==5.29.0
+pydantic==2.10.6
+pytest==8.3.4
+ruff==0.9.9

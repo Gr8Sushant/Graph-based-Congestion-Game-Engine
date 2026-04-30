@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "graph_congestion_lab"
+version = "0.1.0"
+description = "Graph-based routing game and congestion engine"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "networkx",
+    "pandas",
+    "numpy",
+    "osmnx",
+    "plotly",
+    "streamlit",
+    "geopandas",
+    "python-dotenv",
+    "neo4j"
+]
