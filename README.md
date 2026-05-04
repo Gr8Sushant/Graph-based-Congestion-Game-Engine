@@ -2,11 +2,7 @@
 
 > **This project models real-world road and internet networks as graphs, computes Wardrop equilibria and socially optimal flows, measures the Price of Anarchy, and explores Pigovian taxes and dynamic demand scenarios.**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#) *(Deploy link placeholder)*
-[![CI](https://github.com/USERNAME/graph-congestion-lab/actions/workflows/ci.yml/badge.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-![Streamlit Demo](assets/demo.gif)
 
 ## Overview
 
